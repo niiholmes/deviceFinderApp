@@ -1,0 +1,35 @@
+.nav-container{
+    position: relative;
+    margin-bottom: 5rem;
+}
+
+.listContainer{
+    display: flex;
+    list-style-type: none;
+}
+
+.motherBox{
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 10%;
+}
+
+.who{
+    padding: 20px;
+}
+
+.signUp{
+    padding:20px;
+}
+
+.logIn{
+    padding: 20px;
+}
+
+.hi{
+    padding: 20px;
+}
+

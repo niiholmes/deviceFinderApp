@@ -1,0 +1,27 @@
+.form-mod{
+    width: 40%;
+    height: 37rem;
+    background-color: white;
+    position: relative;
+    left: 30%;
+    margin-top: 5rem;
+    padding: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.box2{
+    margin-left: 600px;
+    margin-top: 200px;
+    justify-content: center;
+}
+
+.searchField{
+    width: 400px;
+    height: 40px;
+}
+
+    
+.subBut2{
+    width: 100px;
+}
